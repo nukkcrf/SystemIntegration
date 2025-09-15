@@ -16,5 +16,5 @@ namespace SystemIntegration;
         {
 
         optionsBuilder.UseSqlServer("Server=localhost;Database=OrderDb;Trusted_Connection=True;TrustServerCertificate=True;");
-        }
     }
+}
